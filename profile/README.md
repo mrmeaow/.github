@@ -4,19 +4,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmeaow" alt="mrmeaow" /></a> </p>
 
-- 🔭 I’m currently working on **Hono.js, ERP / SME / SMB, Flutter, etc.**
+- 🔭 I’m currently working on my first **product-driven** full-stack project.
 
-- 🌱 I’m learning to architect **SaaS-ready cloud solutions** (SMB/SME), build with **Flutter**, and automate workflows using **GitOps**.
+- 🌱 I’m learning to architect **SaaS-ready cloud solutions** for (SMBs/SMEs), and automate workflows using **GitOps**.
 
-- 👯 I’m looking to collaborate on **SMEs solutions or tiny Startup based ideas**
+- 👯 I’m looking to collaborate on my ongoing **product** to be launched or business-model partnership.
 
-- 🤝 I’m looking for help with **<none_for_now>**
+- 🤝 I’m looking for help with **cloud** or **financial support** to operate my next project.
 
-- 👨‍💻 All of my projects are available at [https://genbytez.com](https://genbytez.com)
+- 👨‍💻 All of my projects are available at [https://genbytez.com](https://genbytez.com) \{NOT_READY\}
 
 - 📝 I regularly write articles on [<coming_soon>](<coming_soon>)
 
-- 💬 Ask me about **Linux SysAdmin**, **Hono** in Node.js, **PostgreSQL/Redis/MongoDB**, etc.
+- 💬 Ask me about **Linux SysAdmin**, **Hono** or **Express** or **Nest.js** in Node.js, **PostgreSQL/Redis/MongoDB**, etc.
 
 - 📫 How to reach me: [WhatsApp me](https://wa.me/8801311052448)
 
@@ -24,7 +24,7 @@
 - 📄 Know about my experiences [<will_be_updated_soon>](<will_be_updated_soon>)
 -->
 
-- ⚡ Fun fact: **I’m building and launching products as I move toward self-employment — exciting times ahead!**
+- ⚡ Fun fact: **I’m building and launching products as I move toward self-employment — exciting times ahead!** \{ON_GOING\}
 
 <br />
 <br />
