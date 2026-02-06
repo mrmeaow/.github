@@ -2,23 +2,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmeaow&label=Profile%20views&color=0e75b6&style=flat" alt="mrmeaow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmeaow" alt="mrmeaow" /></a> </p>
 
-- 🔭 I’m currently working on my first **product-driven** full-stack project.
+- 🔭 I’m currently working on my **personal-product** driven full-stack project.
 
 - 🌱 I’m learning to architect **SaaS-ready cloud solutions** for (SMBs/SMEs), and automate workflows using **GitOps**.
 
 - 👯 I’m looking to collaborate on my ongoing **product** to be launched or business-model partnership.
 
-- 🤝 I’m looking for help with **cloud** or **financial support** to operate my next project.
+- 🤝 I’m looking for help with **collab.** or **teamup** with my ideas / ongoing-projects.
 
-- 👨‍💻 All of my projects are available at [https://genbytez.com](https://genbytez.com) \{NOT_READY\}
-
-- 📝 I regularly write articles on [<coming_soon>](<coming_soon>)
+- 📝 I regularly write articles on [My Digital Space](https://mrmeaow.netlify.app/articles/)
 
 - 💬 Ask me about **Linux SysAdmin**, **Hono** or **Express** or **Nest.js** in Node.js, **PostgreSQL/Redis/MongoDB**, etc.
 
-- 📫 How to reach me: [WhatsApp me](https://wa.me/8801311052448)
+- 📫 How to reach me: [DM me](https://t.me/mrmeaow)
 
 <!--
 - 📄 Know about my experiences [<will_be_updated_soon>](<will_be_updated_soon>)
@@ -49,7 +46,11 @@
 
 - <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></a> **Express.js**
 
-- <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a> **Flutter**
+- <a href="https://nestjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/nestjs/nestjs-original.svg" alt="Nest.js" width="40" height="40"/></a> **Nest.js**
+
+- <a href="https://angular.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/angular/angular-original.svg" alt="angular" width="40" height="40" /> **Angular** </a>
+
+- <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a> **Flutter** (Practioner Level)
 
 - <a href="https://svelte.dev" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/></a> **Svelte**
 
