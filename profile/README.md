@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **personal-product** driven full-stack project.
 
-- 🌱 I’m learning to architect **SaaS-ready cloud solutions** for (SMBs/SMEs), and automate workflows using **GitOps**.
+- 🌱 I’m learning `Kubernetes` (with **k3s** + **multipass**) and scalable system-design as a backend-engineer.
 
 - 👯 I’m looking to collaborate on my ongoing **product** to be launched or business-model partnership.
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [My Digital Space](https://mrmeaow.netlify.app/articles/)
 
-- 💬 Ask me about **Linux SysAdmin**, **Hono** or **Express** or **Nest.js** in Node.js, **PostgreSQL/Redis/MongoDB**, etc.
+- 💬 Ask me about **API Development**, **Linux**, **TypeScript**, and so on.
 
 - 📫 How to reach me: [DM me](https://t.me/mrmeaow)
 
