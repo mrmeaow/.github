@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on my **personal-product** driven full-stack project.
 
-- 🌱 I’m learning `Kubernetes` (with **k3s** + **multipass**) and scalable system-design as a backend-engineer.
+- 🌱 I’m learning `Kubernetes` (with **k3s** + **multipass** / **k3d**) and scalable system-design as a backend-engineer.
 
-- 👯 I’m looking to collaborate on my ongoing **product** to be launched or business-model partnership.
+- 👯 I’m looking to collaborate on my ongoing **product** to be launched or business capable product.
 
-- 🤝 I’m looking for help with **collab.** or **teamup** with my ideas / ongoing-projects.
+- 🤝 I’m looking for help with **collab.** or **teamup** with my ideas / ongoing-projects or yours.
 
-- 📝 I regularly write articles on [My Digital Space](https://mrmeaow.netlify.app/articles/)
+- 📝 I regularly write articles on [My Digital Space](https://mrmeaow.netlify.app/articles)
 
 - 💬 Ask me about **API Development**, **Linux**, **TypeScript**, and so on.
 
@@ -71,9 +71,3 @@
 - <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a> **Bash**
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmeaow&show_icons=true&locale=en&layout=compact" alt="mrmeaow" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmeaow&show_icons=true&locale=en" alt="mrmeaow" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmeaow&" alt="mrmeaow" /></p>
